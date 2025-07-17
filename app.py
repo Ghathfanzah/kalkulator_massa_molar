@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("kalkulator_massa_molar")
+st.title("kalkulator massa molar")
